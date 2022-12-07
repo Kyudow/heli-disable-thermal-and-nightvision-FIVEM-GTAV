@@ -1,5 +1,15 @@
 # FiveM - heli by mraes
-Version 1.3 - 2017/06/09
+
+12/08/2022
+
+I Disabled Thermal and Night Vision from Helicopters 
+
+i forked it from mraes’ Heli Script 
+https://forum.cfx.re/t/release-heli-script/24094
+
+<h1>Kyudo</h1>
+<h2>https://www.facebook.com/Kyudoo/</h2>
+
 
 Instructions:
  * Download resource
@@ -9,9 +19,3 @@ Instructions:
  * Whilst in Helicam: when hovering over a vehicle and close enough to it, you can see vehicle info. If you can see this, press SPACE to lock camera onto the vehicle. SPACE again to unlock camera.
  * Press the X key to rappel from the helicopter
  * Press the G key as helicopter pilot to switch on the spotlight (this is synced across the network to all players)
- 
- Changelog:
- * 2017/06/08: Added smoothing to camera movement.
- * 2017/06/08: Added Nightvision and Thermal Vision.
- * 2017/06/09: Made camera movement smoother when zoomed in.
- * 2017/06/12: Added rappel, spotlight and showing of vehicle information + lock onto vehicle. Changed some keys. Added screen effect overlay to make it look like cam feed.
